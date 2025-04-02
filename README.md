@@ -14,7 +14,36 @@ A classic Snake and Ladder board game implemented in Python using Pygame.
 
 ## Gameplay Demo
 
-<video src="Untitled video - Made with Clipchamp (1).mp4" controls title="Gameplay Demo"></video>
+### Option 1: Download and View Locally
+
+You can download the gameplay video directly from the repository and play it on your device: [Download Gameplay Video](Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+
+### Option 2: Direct Embed (Works in local Markdown viewers, may not work on GitHub for large videos)
+
+<video width="640" height="360" controls>
+  <source src="Untitled video - Made with Clipchamp (1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Note: This direct embed may not work on GitHub for videos around 60MB in size.*
+
+### Option 3: Watch on GitHub
+
+The video is available in the GitHub repository. You can view it directly at:
+
+[View Gameplay Video on GitHub](https://github.com/PREMO625/DSAL-MINI-project/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+
+For embedding in GitHub markdown (may not display properly for videos around 60MB):
+
+```markdown
+![Gameplay Demo](https://github.com/PREMO625/DSAL-MINI-project/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+```
+
+Or using GitHub's video tag format:
+
+```html
+<video src="https://github.com/PREMO625/DSAL-MINI-project/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4" controls="controls" muted="muted" style="max-width:100%;"></video>
+```
 
 ## Prerequisites
 
