@@ -12,6 +12,10 @@ A classic Snake and Ladder board game implemented in Python using Pygame.
 - Player turn indicators
 - Win condition detection
 
+## Gameplay Demo
+
+<video src="Untitled video - Made with Clipchamp (1).mp4" controls title="Gameplay Demo"></video>
+
 ## Prerequisites
 
 - Python 3.7 or higher
